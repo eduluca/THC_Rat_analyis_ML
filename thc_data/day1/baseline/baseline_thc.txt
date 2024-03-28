@@ -1,5 +1,0 @@
-Normal / Quiet Breath count (0): 2118
-Sigh breath count (1): 14
-Sniffing breath count (2): 1612
-Random Apnea count (3): 70
-Type II Apnea count (4): 1
