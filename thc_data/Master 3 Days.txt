@@ -1,0 +1,394 @@
+Day 1: 
+
+baseline_control:
+Full file:
+
+Normal / Quiet Breath count (0): 2118
+Sigh breath count (1): 14
+Sniffing breath count (2): 1612
+Random Apnea count (3): 70
+Type II Apnea count (4): 1
+
+Total breath count: 3815
+
+
+30 min quiet breathing only:
+
+Normal / Quiet Breath count (0): 1280
+Sigh breath count (1): 6
+Sniffing breath count (2): 316
+Random Apnea count (3): 55
+Type II Apnea count (4): 1
+
+Total breath count: 1658
+
+
+
+
+
+baseline_thc:
+Full file:
+
+Normal / Quiet Breath count (0): 2758
+Sigh breath count (1): 12
+Sniffing breath count (2): 1220
+Random Apnea count (3): 186
+Type II Apnea count (4): 14
+
+Total breath count: 4190
+
+
+30 min quiet breathing only:
+
+Normal / Quiet Breath count (0): 1622
+Sigh breath count (1): 3
+Sniffing breath count (2): 33
+Random Apnea count (3): 73
+Type II Apnea count (4): 5
+
+Total breath count: 1736
+
+
+
+
+
+
+chemo_control:
+Full file:
+
+Normal / Quiet Breath count (0): 3114
+Sigh breath count (1): 10
+Sniffing breath count (2): 687
+Random Apnea count (3): 141
+Type II Apnea count (4): 2
+
+Total breath count: 3954
+
+
+Baseline room air only:
+
+Normal / Quiet Breath count (0): 630
+Sigh breath count (1): 2
+Sniffing breath count (2): 88
+Random Apnea count (3): 55
+Type II Apnea count (4): 2
+
+Total breath count: 777
+
+
+
+
+chemo_thc:
+Full file:
+
+Normal / Quiet Breath count (0): 4909
+Sigh breath count (1): 24
+Sniffing breath count (2): 549
+Random Apnea count (3): 169
+Type II Apnea count (4): 7
+
+Total breath count: 5658
+
+
+Baseline room air only:
+
+Normal / Quiet Breath count (0): 1157
+Sigh breath count (1): 0
+Sniffing breath count (2): 20
+Random Apnea count (3): 129
+Type II Apnea count (4): 2
+
+Total breath count: 1308
+
+
+
+
+
+
+
+
+Day 2:
+
+baseline_control:
+Full file:
+
+Normal / Quiet Breath count (0): 3031
+Sigh breath count (1): 8
+Sniffing breath count (2): 695
+Random Apnea count (3): 106
+Type II Apnea count (4): 2
+
+Total breath count: 3842
+
+
+30 min quiet breathing only:
+
+Normal / Quiet Breath count (0): 1582
+Sigh breath count (1): 4
+Sniffing breath count (2): 201
+Random Apnea count (3): 46
+Type II Apnea count (4): 1
+
+Total breath count: 1834
+
+
+
+
+baseline_thc:
+Full file:
+
+Normal / Quiet Breath count (0): 3004
+Sigh breath count (1): 17
+Sniffing breath count (2): 832
+Random Apnea count (3): 137
+Type II Apnea count (4): 12
+
+Total breath count: 4002
+
+
+30 min quiet breathing only:
+
+Normal / Quiet Breath count (0): 1714
+Sigh breath count (1): 10
+Sniffing breath count (2): 300
+Random Apnea count (3): 46
+Type II Apnea count (4): 3
+
+Total breath count: 2073
+
+
+
+
+
+chemo_control:
+Full file:
+
+Normal / Quiet Breath count (0): 4793
+Sigh breath count (1): 14
+Sniffing breath count (2): 667
+Random Apnea count (3): 227
+Type II Apnea count (4): 6
+
+Total breath count: 5707	
+
+
+Baseline room air only:
+
+Normal / Quiet Breath count (0): 1538
+Sigh breath count (1): 1
+Sniffing breath count (2): 27
+Random Apnea count (3): 78
+Type II Apnea count (4): 1
+
+Total breath count: 1645
+
+
+
+
+chemo_thc:
+Full file:
+
+Normal / Quiet Breath count (0): 5811
+Sigh breath count (1): 8
+Sniffing breath count (2): 207
+Random Apnea count (3): 227
+Type II Apnea count (4): 15
+
+Total breath count: 6268
+
+
+Baseline room air only:
+
+Normal / Quiet Breath count (0): 1334
+Sniffing breath count (2): 48
+Random Apnea count (3): 199
+Type II Apnea count (4): 6
+
+Total breath count: 1587
+
+
+
+
+
+
+Day 3:
+
+baseline_control:
+Full file:
+
+Normal / Quiet Breath count (0): 3537
+Sigh breath count (1): 20
+Sniffing breath count (2): 493
+Random Apnea count (3): 73
+
+Total breath count: 4123
+
+
+30 min quiet breathing only:
+
+Normal / Quiet Breath count (0): 1991
+Sigh breath count (1): 7
+Sniffing breath count (2): 42
+Random Apnea count (3): 39
+
+Total breath count: 2079
+
+
+
+
+baseline_thc:
+Full file:
+
+Normal / Quiet Breath count (0): 3557
+Sigh breath count (1): 14
+Sniffing breath count (2): 498
+Random Apnea count (3): 111
+Type II Apnea count (4): 7
+
+Total breath count: 4187
+
+
+
+30 min quiet breathing only:
+
+Normal / Quiet Breath count (0): 1913
+Sigh breath count (1): 4
+Sniffing breath count (2): 31
+Random Apnea count (3): 74
+Type II Apnea count (4): 5
+
+Total breath count: 2027
+
+
+
+
+chemo_control:
+Full file:
+
+Normal / Quiet Breath count (0): 3979
+Sigh breath count (1): 10
+Sniffing breath count (2): 244
+Random Apnea count (3): 727
+Type II Apnea count (4): 9
+
+Total breath count: 4969
+
+
+Baseline room air only:
+
+Normal / Quiet Breath count (0): 1195
+Sigh breath count (1): 1
+Sniffing breath count (2): 19
+Random Apnea count (3): 249
+Type II Apnea count (4): 3
+
+Total breath count: 1467
+
+
+
+
+chemo_thc:
+Full file:
+
+Normal / Quiet Breath count (0): 4650
+Sigh breath count (1): 11
+Sniffing breath count (2): 79
+Random Apnea count (3): 855
+Type II Apnea count (4): 43
+
+Total breath count: 5638
+
+
+Baseline room air only:
+
+Normal / Quiet Breath count (0): 1723
+Sigh breath count (1): 2
+Sniffing breath count (2): 20
+Random Apnea count (3): 73
+Type II Apnea count (4): 4
+
+Total breath count: 1822
+
+
+
+
+
+Days 1-3 TOTAL:
+
+baseline_control TOTAL:
+
+Full file: 
+Normal / Quiet Breath count (0): 2118 + 3031 + 3537 = 8686
+Sigh breath count (1): 14 + 8 + 20 = 42
+Sniffing breath count (2): 1612 + 695 + 493 = 2800
+Random Apnea count (3): 70 + 106 + 73 = 249
+Type II Apnea count (4): 1 + 2 + 0 = 3
+Total breath count: 3815 + 3842 + 4123 = 11780
+
+30 min quiet breathing only:
+Normal / Quiet Breath count (0): 1280 + 1582 + 1991 = 4853
+Sigh breath count (1): 6 + 4 + 7 = 17
+Sniffing breath count (2): 316 + 201 + 42 = 559
+Random Apnea count (3): 55 + 46 + 39 = 140
+Type II Apnea count (4): 1 + 1 + 0 = 2
+Total breath count: 1658 + 1834 + 2079 = 5571
+
+
+
+baseline_thc TOTAL:
+
+Full file:
+Normal / Quiet Breath count (0): 2758 + 3004 + 3557 = 9319
+Sigh breath count (1): 12 + 17 + 14 = 43
+Sniffing breath count (2): 1220 + 832 + 498 = 2550
+Random Apnea count (3): 186 + 137 + 111 = 434
+Type II Apnea count (4): 14 + 12 + 7 = 33
+Total breath count: 4190 + 4002 + 4187 = 12379
+
+30 min quiet breathing only:
+Normal / Quiet Breath count (0): 1622 + 1714 + 1913 = 5249
+Sigh breath count (1): 3 + 10 + 4 = 17
+Sniffing breath count (2): 33 + 300 + 31 = 364
+Random Apnea count (3): 73 + 46 + 74 = 193
+Type II Apnea count (4): 5 + 3 + 5 = 13
+Total breath count: 1736 + 2073 + 2027 = 5836
+
+
+
+chemo_control TOTAL:
+
+Full file:
+Normal / Quiet Breath count (0): 3114 + 4793 + 3979 = 11886
+Sigh breath count (1): 10 + 14 + 10 = 34
+Sniffing breath count (2): 687 + 667 + 244 = 1598
+Random Apnea count (3): 141 + 227 + 727 = 1095
+Type II Apnea count (4): 2 + 6 + 9 = 17
+Total breath count: 3954 + 5707 + 4969 = 14630
+
+Baseline room air only:
+Normal / Quiet Breath count (0): 630 + 1538 + 1195 = 3363
+Sigh breath count (1): 2 + 1 + 1 = 4
+Sniffing breath count (2): 88 + 27 + 19 = 134
+Random Apnea count (3): 55 + 78 + 249 = 382
+Type II Apnea count (4): 2 + 1 + 3 = 6
+Total breath count: 777 + 1645 + 1467 = 3889
+
+
+
+chemo_thc TOTAL:
+
+Full file:
+Normal / Quiet Breath count (0): 4909 + 5811 + 4650 = 15370
+Sigh breath count (1): 24 + 8 + 11 = 43
+Sniffing breath count (2): 549 + 207 + 79 = 835
+Random Apnea count (3): 169 + 227 + 855 = 1251
+Type II Apnea count (4): 7 + 15 + 43 = 65
+Total breath count: 5658 + 6268 + 5638 = 17564
+
+Baseline room air only:
+Normal / Quiet Breath count (0): 1157 + 1334 + 1723 = 4214
+Sigh breath count (1): 0 + 0 + 2 = 2
+Sniffing breath count (2): 20 + 48 + 20 = 88
+Random Apnea count (3): 129 + 199 + 73 = 401
+Type II Apnea count (4): 2 + 6 + 4 = 12
+Total breath count: 1308 + 1587 + 1822 = 4717

@@ -1,0 +1,18 @@
+Full file:
+
+Normal / Quiet Breath count (0): 3537
+Sigh breath count (1): 20
+Sniffing breath count (2): 493
+Random Apnea count (3): 73
+
+Total breath count: 4123
+
+
+30 min quiet breathing only:
+
+Normal / Quiet Breath count (0): 1991
+Sigh breath count (1): 7
+Sniffing breath count (2): 42
+Random Apnea count (3): 39
+
+Total breath count: 2079

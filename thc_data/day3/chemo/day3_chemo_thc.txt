@@ -1,0 +1,21 @@
+Full file:
+
+Normal / Quiet Breath count (0): 4650
+Sigh breath count (1): 11
+Sniffing breath count (2): 79
+Random Apnea count (3): 855
+Type II Apnea count (4): 43
+
+Total breath count: 5638
+
+
+
+Baseline room air only:
+
+Normal / Quiet Breath count (0): 1723
+Sigh breath count (1): 2
+Sniffing breath count (2): 20
+Random Apnea count (3): 73
+Type II Apnea count (4): 4
+
+Total breath count: 1822
